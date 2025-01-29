@@ -21,7 +21,7 @@ const Hero = () => {
             </Reveal>
             <Reveal initialX={-30} delay={0.2}>   
                 <p className='text-center text-sm mx-6
-                    md:text-start md:mx-0'> I&38217;m obssessed with creating dynamic and user-friendly applications
+                    md:text-start md:mx-0'> I&#8217;m obssessed with creating dynamic and user-friendly applications
                 </p>
             </Reveal>     
             <Reveal initialX={-40} delay={0.4}>
