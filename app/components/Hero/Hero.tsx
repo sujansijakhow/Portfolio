@@ -40,8 +40,8 @@ const Hero = () => {
                 <Image src="/profile_dark_purple.png" alt='Dark purple rectangle' width={372}
                 height={430} className='hidden md:block w-[372px] h-[430px] absolute right-0 -z-10 top-0 group-hover:scale-[102%]
                 group-hover:rotate-2 ease-in-out duration-300' />
-                <Image src="/profile_picture.png" alt='Profile Picture ' width={357}
-                height={417} className='hidden md:block min-w-[357px] h-[417px] z-10 mr-[7px] my-[6.5px] group-hover:scale-[102%]
+                <Image src="/sujan_profile.jpeg" alt='Profile Picture ' width={357}
+                height={417} className='hidden md:block min-w-[357px] h-[417px] z-10 ml-[7px] mr-[7px] my-[6.5px] rounded-md group-hover:scale-[102%]
                 ease-in-out duration-300' />
             </Reveal>   
         </div>
