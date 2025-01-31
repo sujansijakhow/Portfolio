@@ -1,7 +1,7 @@
 "use client"
 
 import React, { useEffect, useRef } from 'react'
-import {inView, motion, useAnimation, useInView} from "framer-motion";
+import { motion, useAnimation, useInView} from "framer-motion";
 
 type Props = React.PropsWithChildren<{
     initialX?: number;
