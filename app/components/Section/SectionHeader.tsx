@@ -3,7 +3,7 @@ import Reveal from '../Reveal';
 
 type Props = {
     plainText: string;
-    highlightText: String;
+    highlightText: string;
 }
 
 const SectionHeader = ({plainText, highlightText}: Props) => {
