@@ -29,7 +29,7 @@ const Contact = () => {
             return() => {
                 window.removeEventListener("mousemove", updatePos);
             }
-        },[]);
+        },[updatePos]);
     
 
   return (
