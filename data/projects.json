@@ -14,7 +14,7 @@
        "title": "Incident Management System",
        "link": {
             "label": "Incident",
-            "url": "https://www.example.com"
+            "url": "https://incident-management-system-lovat.vercel.app/"
        },
        "description": "Handle the incident props by the authorized person considering incident progress showing all the necessary incident info through the platform",
        "languageIcons": ["/react_icon.png", "/js_icon.png", "/tailwind_icon.png"]
