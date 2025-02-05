@@ -1,14 +1,5 @@
 [
-    {
-       "thumbnail": "/businessaddmodal.png",
-       "title": "Business AddModal Dashboard",
-       "link": {
-            "label": "Modaldash",
-            "url": "https://www.example.com"
-       },
-       "description": "Developed a add modal Dashboard that take businesname and organization date with real-time location to user and made it visible to the user.",
-       "languageIcons": ["/react_icon.png", "/js_icon.png", "/tailwind_icon.png"]
-    },
+
     {
        "thumbnail": "/incident.png",
        "title": "Incident Management System",
@@ -19,6 +10,16 @@
        "description": "Handle the incident props by the authorized person considering incident progress showing all the necessary incident info through the platform",
        "languageIcons": ["/react_icon.png", "/js_icon.png", "/tailwind_icon.png"]
     },
+    {
+      "thumbnail": "/businessaddmodal.png",
+      "title": "Business AddModal Dashboard",
+      "link": {
+           "label": "Modaldash",
+           "url": "https://www.example.com"
+      },
+      "description": "Developed a add modal Dashboard that take businesname and organization date with real-time location to user and made it visible to the user.",
+      "languageIcons": ["/react_icon.png", "/js_icon.png", "/tailwind_icon.png"]
+   },
     {
        "thumbnail": "/todo.png",
        "title": "Todo-List Dashboard",
