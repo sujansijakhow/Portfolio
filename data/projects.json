@@ -3,7 +3,7 @@
        "thumbnail": "/businessaddmodal.png",
        "title": "Business AddModal Dashboard",
        "link": {
-            "label": "Modal.dash",
+            "label": "Modaldash",
             "url": "https://www.example.com"
        },
        "description": "Developed a add modal Dashboard that take businesname and organization date with real-time location to user and made it visible to the user.",
