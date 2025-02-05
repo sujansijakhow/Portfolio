@@ -20,9 +20,9 @@ const Projects = () => {
         </div>
       </div>
       <Image src="/projects_highlight.svg" alt='Project Highlights' width={558} height={558}
-        className='absolute hidden md:block left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 -2-10' />
+        className='absolute hidden md:block left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 -2-10 pointer-events-none' />
       <Image src="/projects_highlight_mobile.svg" alt='Mobile Background Highlights' width={321} height={530}
-        className='absolute  md:hidden left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 -2-10' />
+        className='absolute  md:hidden left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 -2-10 pointer-events-none' />
     </SectionContainer>
   )
 }
