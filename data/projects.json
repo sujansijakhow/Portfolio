@@ -15,7 +15,7 @@
       "title": "Business AddModal Dashboard",
       "link": {
            "label": "Modaldash",
-           "url": "https://www.example.com"
+           "url": "https://add-business-model.vercel.app/"
       },
       "description": "Developed a add modal Dashboard that take businesname and organization date with real-time location to user and made it visible to the user.",
       "languageIcons": ["/react_icon.png", "/js_icon.png", "/tailwind_icon.png"]
@@ -35,7 +35,7 @@
        "title": "Educational Blog Page",
        "link": {
             "label": "Blog Page",
-            "url": "https://www.example.com"
+            "url": "https://educational-blog-web.vercel.app/homepage.html"
        },
        "description": "Developed a Educational blog webpage that faciliates user to put the perception based on the event and get info form the anecdote",
        "languageIcons": ["/html_icon.png", "/js_icon.png", "/css_icon.png"]
