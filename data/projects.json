@@ -1,5 +1,24 @@
 [
-
+     {
+       "thumbnail": "/dashboard.jpg",
+       "title": "Admin Dashboard",
+       "link": {
+            "label": "Dashboard",
+            "url": "https://sujansijakhow.vercel.app/"
+       },
+       "description": "Building a React admin dashboard to visualize cost analysis, web analytics and overall revenue",
+       "languageIcons": ["/react_icon.png", "/js_icon.png", "/tailwind_icon.png"]
+    },
+    {
+       "thumbnail": "/weather.jpg",
+       "title": "Weather Dashboard",
+       "link": {
+            "label": "Weather",
+            "url": "https://api-based-weather.vercel.app/"
+       },
+       "description": "Developed a real time weather displaying system using openweather API",
+       "languageIcons": ["ts_icon.png", "/tailwind_icon.png"]
+    },
     {
        "thumbnail": "/incident.png",
        "title": "Incident Management System",
