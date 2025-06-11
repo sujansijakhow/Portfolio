@@ -17,7 +17,7 @@ const Hero = () => {
                 <span className='-ml-3'>👏</span>
                 Hello I&#8217;m Sujan Sijakhow, I&#8217;m a {" "} 
                 <span className='block text-[27px] highlight mt-2
-                    md:text-[45px] md:inline md:mt-0'>Full Stack Developer</span>
+                    md:text-[45px] md:inline md:mt-0'>Web Developer</span>
                 </h1>
             </Reveal>
             <Reveal initialX={-30} delay={0.2}>   
