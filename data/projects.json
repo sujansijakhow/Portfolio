@@ -10,6 +10,16 @@
        "languageIcons": ["/react_icon.png", "/js_icon.png", "/tailwind_icon.png"]
     },
     {
+       "thumbnail": "/hotel.png",
+       "title": "Golden Haven Hotel",
+       "link": {
+            "label": "Hotel",
+            "url": "https://www.figma.com/design/1EIOC6DZwZroJAbSjDysMw/Untitled?node-id=0-1&p=f"
+       },
+       "description": "Design Hotel booking system called golden haven hotel in figma checking realtime validity of availability and confirmation",
+       "languageIcons": ["/figma.png"]
+    },
+    {
        "thumbnail": "/weather.jpg",
        "title": "Weather Dashboard",
        "link": {
@@ -38,6 +48,16 @@
       },
       "description": "Developed a add modal Dashboard that take businesname and organization date with real-time location to user and made it visible to the user.",
       "languageIcons": ["/react_icon.png", "/js_icon.png", "/tailwind_icon.png"]
+   },
+    {
+      "thumbnail": "/software.png",
+      "title": "SujanWare Software Company",
+      "link": {
+           "label": "Software",
+           "url": "https://www.figma.com/design/5FqDvWUYFjjHC4jpPLEL5c/Untitled?t=4l3w6y2fSA8EoGDm-0"
+      },
+      "description": "Design SujanWare software company providing various technology services with elegant view",
+      "languageIcons": ["/figma.png"]
    },
     {
        "thumbnail": "/todo.png",
