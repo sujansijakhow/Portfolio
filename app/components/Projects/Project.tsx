@@ -66,7 +66,7 @@ const Project = ({
           }} />
         <div className='flex flex-col gap-[11px]'>
           <div className='flex justify-between items-center'>
-            <h3 className='font-semibold text-xl md:text-[22px]'>{title}</h3>
+            <h3 className='font-semibold text-xl md:text-[18px]'>{title}</h3>
             <a
               href={link.url}
               target="_blank"
